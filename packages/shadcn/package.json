@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@antfu/ni": "^0.21.4",
-    "@babel/core": "^7.22.1",
+    "@babel/core": "^7.29.6",
     "@babel/parser": "^7.22.6",
     "@babel/plugin-transform-typescript": "^7.22.5",
     "commander": "^10.0.0",
@@ -71,7 +71,7 @@
     "lodash.template": "^4.5.0",
     "node-fetch": "^3.3.0",
     "ora": "^6.1.2",
-    "postcss": "^8.4.24",
+    "postcss": "^8.5.23",
     "prompts": "^2.4.2",
     "recast": "^0.23.2",
     "stringify-object": "^5.0.0",
